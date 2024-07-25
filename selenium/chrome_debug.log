@@ -1,0 +1,15 @@
+[68404:259:0725/183523.917064:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.183 (not a warning)
+[68404:259:0725/183524.514424:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[68404:259:0725/183524.701107:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[68404:259:0725/183526.622333:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yJ/r/lCZTHLCiMlo.js?_nc_x=Ij3Wp8lg5Kz (133)
+[68404:259:0725/183526.682815:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[68404:259:0725/183526.685853:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[68404:259:0725/183529.099695:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[68404:259:0725/183529.099780:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[68404:259:0725/183530.834829:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[68404:259:0725/183530.834889:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[68404:259:0725/183537.165418:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/y_/r/bPaswczWF4f.js?_nc_x=Ij3Wp8lg5Kz (133)
+[68404:259:0725/183538.366225:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45144
+[68404:259:0725/183538.404501:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5152
+[68404:259:0725/183539.415022:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747168
+[68404:259:0725/183552.832828:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
