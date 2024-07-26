@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Except for the Jupyter notebook
+!jobsearch.ipynb
+
+# Allow Git to track .gitignore itself
+!.gitignore
