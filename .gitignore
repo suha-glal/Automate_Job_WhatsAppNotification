@@ -2,7 +2,7 @@
 *
 
 # Except for the Jupyter notebook
-!jobsearch.ipynb
+!job_notification.py
 
 # Allow Git to track .gitignore itself
 !.gitignore
